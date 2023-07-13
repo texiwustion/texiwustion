@@ -7,17 +7,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 10 July 2023
+From: 30 June 2023 - To: 11 July 2023
 
-Total Time: 31 hrs 48 mins
+Total Time: 31 hrs 52 mins
 
-TypeScript   11 hrs 43 mins  █████████▒░░░░░░░░░░░░░░░   36.87 %
-C++          8 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-JSON         4 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-JavaScript   2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Markdown     2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Vim Script   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Text         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TypeScript   11 hrs 43 mins  █████████▒░░░░░░░░░░░░░░░   36.80 %
+C++          8 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+JSON         4 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+JavaScript   2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Markdown     2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Vim Script   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Text         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 TSConfig     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
