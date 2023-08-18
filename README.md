@@ -7,18 +7,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 15 August 2023
+From: 30 June 2023 - To: 17 August 2023
 
-Total Time: 106 hrs 13 mins
+Total Time: 106 hrs 18 mins
 
-C++           72 hrs 10 mins  █████████████████░░░░░░░░   67.93 %
-TypeScript    11 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+C++           72 hrs 14 mins  █████████████████░░░░░░░░   67.95 %
+TypeScript    11 hrs 57 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
 Text          6 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 JSON          5 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Markdown      3 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Markdown      3 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 JavaScript    2 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 YAML          1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Vim Script    56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Vim Script    56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 Other         41 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 SSH Config    30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
