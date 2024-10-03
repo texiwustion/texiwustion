@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 01 October 2024
+From: 30 June 2023 - To: 02 October 2024
 
-Total Time: 860 hrs 43 mins
+Total Time: 860 hrs 47 mins
 
-C++                408 hrs 35 mins ████████████░░░░░░░░░░░░░   47.47 %
+C++                408 hrs 39 mins ████████████░░░░░░░░░░░░░   47.48 %
 TypeScript         234 hrs 7 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
 Markdown           105 hrs 29 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
 JSON               14 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
