@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 28 June 2025
+From: 30 June 2023 - To: 29 June 2025
 
-Total Time: 1,256 hrs 35 mins
+Total Time: 1,258 hrs 9 mins
 
-C++                  648 hrs 22 mins █████████████░░░░░░░░░░░░   51.60 %
-TypeScript           249 hrs 4 mins  █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Markdown             188 hrs 23 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+C++                  649 hrs 55 mins █████████████░░░░░░░░░░░░   51.66 %
+TypeScript           249 hrs 4 mins  █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+Markdown             188 hrs 23 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
 JavaScript           21 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 Java                 18 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 JSON                 16 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
