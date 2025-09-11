@@ -7,20 +7,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 09 September 2025
+From: 30 June 2023 - To: 10 September 2025
 
-Total Time: 1,426 hrs 25 mins
+Total Time: 1,433 hrs 3 mins
 
-C++                  777 hrs 18 mins █████████████▓░░░░░░░░░░░   54.49 %
-TypeScript           266 hrs 8 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Markdown             199 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+C++                  783 hrs 45 mins █████████████▓░░░░░░░░░░░   54.69 %
+TypeScript           266 hrs 8 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Markdown             199 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
 JavaScript           21 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-JSON                 18 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Java                 18 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Python               16 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-C#                   15 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JSON                 18 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Java                 18 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Python               16 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+C#                   15 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Other                15 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Text                 14 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Text                 14 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
